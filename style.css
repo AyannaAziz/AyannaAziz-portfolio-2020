@@ -1,3 +1,12 @@
+p {
+    background: yellow;
+}
+#aboutMe {
+  text-align: center;
+  /* font-family: 'Bowlby One SC', cursive;
+  font-size: 25.5vw; */
+}
+
 /* Container for flexboxes */
 .row {
     display: flex;
